@@ -39,10 +39,6 @@ const jorgeAquino = {
 
 ## 🧰 Stack técnico
 
-```bash
-jorge@kinal:~$ ls -la stack/
-```
-
 <div align="center">
 
 **Lenguajes**
@@ -69,32 +65,24 @@ jorge@kinal:~$ ls -la stack/
 
 ## 🎓 Certificaciones
 
-```bash
-jorge@kinal:~$ cat certificaciones.log
-```
-
 <div align="center">
 
 | | |
 |:---:|:---:|
-| <img src="certs/curso-ia-agentes.jpeg" width="380"/> | <img src="certs/ciberseguridad-hacking-etico.jpeg" width="380"/> |
+| <img src="https://raw.githubusercontent.com/jaquino-2021159/jaquino-2021159/main/certs/curso-ia-agentes.jpeg" width="380"/> | <img src="https://raw.githubusercontent.com/jaquino-2021159/jaquino-2021159/main/certs/ciberseguridad-hacking-etico.jpeg" width="380"/> |
 | **Curso de IA: De 0 a Agentes** · BIG school × IA Jon Hernández · 6h · 03/06/2026 | **Ciberseguridad y Hacking Ético** · BIG school · 6h · 03/06/2026 |
-| <img src="certs/marketing-digital-ia.jpeg" width="380"/> | <img src="certs/desarrollo-con-ia.jpeg" width="380"/> |
+| <img src="https://raw.githubusercontent.com/jaquino-2021159/jaquino-2021159/main/certs/marketing-digital-ia.jpeg" width="380"/> | <img src="https://raw.githubusercontent.com/jaquino-2021159/jaquino-2021159/main/certs/desarrollo-con-ia.jpeg" width="380"/> |
 | **Marketing Digital con IA** · BIG school (BIGSEO) · 6h · 03/06/2026 | **Desarrollo con IA: De 0 a Producción** · BIG school · 6h · 26/03/2026 |
-| <img src="certs/cisco-it-essentials.png" width="380"/> | |
+| <img src="https://raw.githubusercontent.com/jaquino-2021159/jaquino-2021159/main/certs/cisco-it-essentials.png" width="380"/> | |
 | **IT Essentials: PC Hardware and Software** · Cisco Networking Academy · 28/08/2024 | |
 
 </div>
 
-> 📁 Certificados originales disponibles en [`/certs`](./certs).
+> 📁 Certificados originales disponibles en [`/certs`](https://github.com/jaquino-2021159/jaquino-2021159/tree/main/certs).
 
 <br>
 
 ## 🚀 Proyectos destacados
-
-```bash
-jorge@kinal:~$ ls proyectos/
-```
 
 | Proyecto | Stack | Descripción |
 |---|---|---|
@@ -108,10 +96,6 @@ jorge@kinal:~$ ls proyectos/
 <br>
 
 ## 📊 Estadísticas
-
-```bash
-jorge@kinal:~$ git log --stat --author="Jorge Aquino"
-```
 
 <div align="center">
 
@@ -133,8 +117,6 @@ jorge@kinal:~$ git log --stat --author="Jorge Aquino"
 
 <div align="center">
 
-```bash
-jorge@kinal:~$ echo "Gracias por pasar por aquí"
-```
+*`$ echo "Gracias por pasar por aquí"`*
 
 </div>
