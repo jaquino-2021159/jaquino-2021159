@@ -18,11 +18,11 @@
 
 <br>
 
-<a href="#sobre-mi"><img src="https://img.shields.io/badge/01%20·%20SOBRE%20MÍ-0B1220?style=for-the-badge&logoColor=22D3EE"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/02%20·%20STACK-111C33?style=for-the-badge&logoColor=22D3EE"/></a>
-<a href="#proyectos"><img src="https://img.shields.io/badge/03%20·%20PROYECTOS-0B1220?style=for-the-badge&logoColor=22D3EE"/></a>
-<a href="#certificaciones"><img src="https://img.shields.io/badge/04%20·%20CERTIFICACIONES-111C33?style=for-the-badge&logoColor=22D3EE"/></a>
-<a href="#metricas"><img src="https://img.shields.io/badge/05%20·%20MÉTRICAS-0B1220?style=for-the-badge&logoColor=22D3EE"/></a>
+<a href="#user-content-sobre-mi"><img src="https://img.shields.io/badge/01%20·%20SOBRE%20MÍ-0B1220?style=for-the-badge&logoColor=22D3EE"/></a>
+<a href="#user-content-stack"><img src="https://img.shields.io/badge/02%20·%20STACK-111C33?style=for-the-badge&logoColor=22D3EE"/></a>
+<a href="#user-content-proyectos"><img src="https://img.shields.io/badge/03%20·%20PROYECTOS-0B1220?style=for-the-badge&logoColor=22D3EE"/></a>
+<a href="#user-content-certificaciones"><img src="https://img.shields.io/badge/04%20·%20CERTIFICACIONES-111C33?style=for-the-badge&logoColor=22D3EE"/></a>
+<a href="#user-content-metricas"><img src="https://img.shields.io/badge/05%20·%20MÉTRICAS-0B1220?style=for-the-badge&logoColor=22D3EE"/></a>
 
 </div>
 
