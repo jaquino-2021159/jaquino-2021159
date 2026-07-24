@@ -14,26 +14,14 @@
 
 <br>
 
-```bash
-jorge@kinal:~$ cat sobre-mi.js
-```
+## 🧭 Sobre mí
 
-```js
-const jorgeAquino = {
-  age: 18,
-  location: "Guatemala",
-  education: "Fundación Kinal (2024–2026)",
-  role: "Full-Stack Developer",
-  stack: ["JavaScript", "Java", "C#", "HTML", "CSS"],
-  currentlyLearning: ["AI Agents", "Cybersecurity", "Digital Marketing + AI"],
-  philosophy: "un stack variado > una sola especialidad",
-  askMeAbout: [
-    "desarrollo full-stack",
-    "automatización con agentes de IA",
-    "cómo mezclar disciplinas sin perder foco",
-  ],
-};
-```
+Tengo 18 años y llevo 3 años formándome en **Fundación Kinal (2024–2026)**. Construyo aplicaciones full-stack y, en paralelo, sumo IA aplicada, ciberseguridad y marketing digital al mismo stack — la idea es entender el producto completo, no solo el código.
+
+- 🛠️ **Stack:** JavaScript · Java · C# · HTML · CSS
+- 🤖 **Aprendiendo:** agentes de IA, ciberseguridad y marketing digital con IA
+- 💬 **Pregúntame de:** desarrollo full-stack, automatización con agentes de IA, o cómo mezclar disciplinas sin perder foco
+- ⚡ **Filosofía:** un stack variado > una sola especialidad
 
 <br>
 
@@ -117,6 +105,6 @@ const jorgeAquino = {
 
 <div align="center">
 
-*`$ echo "Gracias por pasar por aquí"`*
+*Gracias por pasar por aquí* 👋
 
 </div>
