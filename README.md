@@ -1,57 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:FF3CAC,100:784BA0&height=190&section=header&text=Jorge%20Eliam%20Aquino%20Reyes&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20IA%20%E2%80%A2%20Ciberseguridad%20%E2%80%A2%20Marketing%20Digital&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2600&pause=900&color=39FF80&background=0D1117&center=true&vCenter=true&width=750&height=60&lines=root%40jaquino%3A~%24+whoami;Jorge+Aquino+-+Full-Stack+Developer;root%40jaquino%3A~%24+cat+intereses.txt;IA+Agents+%2F+Cybersecurity+%2F+Marketing+Digital;root%40jaquino%3A~%24+_" alt="terminal typing banner"/>
 
-![Edad](https://img.shields.io/badge/18%20años-Guatemala-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Kinal](https://img.shields.io/badge/Fundación%20Kinal-2024–2026-FF3CAC?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Disponible](https://img.shields.io/badge/Disponible%20para%20colaborar-784BA0?style=for-the-badge&logo=probot&logoColor=white)
+![Edad](https://img.shields.io/badge/18%20años-Guatemala-0D1117?style=for-the-badge&logo=googlemaps&logoColor=39FF80)
+![Kinal](https://img.shields.io/badge/Fundación%20Kinal-2024–2026-0D1117?style=for-the-badge&logo=googlescholar&logoColor=39FF80)
+![Disponible](https://img.shields.io/badge/Disponible%20para%20colaborar-0D1117?style=for-the-badge&logo=probot&logoColor=39FF80)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaquino2021159-FF3CAC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaquino2021159/)
-[![GitHub](https://img.shields.io/badge/GitHub-jaquino--2021159-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaquino-2021159)
-![Profile Views](https://komarev.com/ghpvc/?username=jaquino-2021159&color=784bA0&style=for-the-badge&label=VISITAS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaquino2021159-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/jaquino2021159/)
+[![GitHub](https://img.shields.io/badge/GitHub-jaquino--2021159-0D1117?style=for-the-badge&logo=github&logoColor=39FF80)](https://github.com/jaquino-2021159)
+![Profile Views](https://komarev.com/ghpvc/?username=jaquino-2021159&color=0D1117&style=for-the-badge&label=VISITAS)
 
 </div>
 
-## 🧭 Sobre mí
+<br>
 
-Tengo 18 años y llevo 3 años formándome en **Fundación Kinal (2024–2026)**. No me quedé con un solo carril: construyo aplicaciones full-stack y, en paralelo, sumo IA aplicada, ciberseguridad y marketing digital al mismo stack — la idea es entender el producto completo, no solo el código.
+```bash
+jorge@kinal:~$ cat sobre-mi.js
+```
 
-- 🛠️ Trabajando en proyectos full-stack con **JavaScript, Java y C#**
-- 🤖 Aprendiendo a integrar **agentes de IA** en flujos de desarrollo reales
-- 🛡️ Metiéndole mano a fundamentos de **ciberseguridad y hacking ético**
-- 📈 Entendiendo el lado de **marketing digital con IA** para no depender solo de "que funcione el código"
-- 💬 Pregúntame de: desarrollo full-stack, automatización con agentes de IA, o cómo mezclar disciplinas sin perder foco
-- ⚡ Dato random: prefiero tener un stack variado antes que una sola especialidad — versatilidad como ventaja competitiva
+```js
+const jorgeAquino = {
+  age: 18,
+  location: "Guatemala",
+  education: "Fundación Kinal (2024–2026)",
+  role: "Full-Stack Developer",
+  stack: ["JavaScript", "Java", "C#", "HTML", "CSS"],
+  currentlyLearning: ["AI Agents", "Cybersecurity", "Digital Marketing + AI"],
+  philosophy: "un stack variado > una sola especialidad",
+  askMeAbout: [
+    "desarrollo full-stack",
+    "automatización con agentes de IA",
+    "cómo mezclar disciplinas sin perder foco",
+  ],
+};
+```
 
 <br>
 
 ## 🧰 Stack técnico
 
+```bash
+jorge@kinal:~$ ls -la stack/
+```
+
 <div align="center">
 
 **Lenguajes**
 <br>
-<img src="https://skillicons.dev/icons?i=js,java,cs,html,css" />
+<img src="https://skillicons.dev/icons?i=js,java,cs,html,css&theme=dark" />
 
 <br><br>
 
 **Herramientas & flujo de trabajo**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" />
 
 <br><br>
 
 **En expansión**
 
-![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-784BA0?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-FF3CAC?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=openai&logoColor=39FF80)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=39FF80)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=39FF80)
 
 </div>
 
 <br>
 
 ## 🎓 Certificaciones
+
+```bash
+jorge@kinal:~$ cat certificaciones.log
+```
 
 <div align="center">
 
@@ -72,6 +92,10 @@ Tengo 18 años y llevo 3 años formándome en **Fundación Kinal (2024–2026)**
 
 ## 🚀 Proyectos destacados
 
+```bash
+jorge@kinal:~$ ls proyectos/
+```
+
 | Proyecto | Stack | Descripción |
 |---|---|---|
 | [restaurantesybancario](https://github.com/jaquino-2021159/restaurantesybancario) | JavaScript | Sistema de gestión para restaurantes y banca |
@@ -85,14 +109,18 @@ Tengo 18 años y llevo 3 años formándome en **Fundación Kinal (2024–2026)**
 
 ## 📊 Estadísticas
 
+```bash
+jorge@kinal:~$ git log --stat --author="Jorge Aquino"
+```
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaquino-2021159&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquino-2021159&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaquino-2021159&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF80&icon_color=58A6FF&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquino-2021159&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF80" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=jaquino-2021159&theme=radical&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=jaquino-2021159&theme=dark&hide_border=true&background=0D1117&ring=39FF80&fire=39FF80&currStreakLabel=39FF80" width="70%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jaquino-2021159&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jaquino-2021159&theme=dark&no-frame=true&row=1&column=6&margin-w=8&bg-color=0D1117" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaquino-2021159/jaquino-2021159/output/github-snake-dark.svg" />
@@ -105,6 +133,8 @@ Tengo 18 años y llevo 3 años formándome en **Fundación Kinal (2024–2026)**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:784BA0,50:FF3CAC,100:FF6B35&height=100&section=footer" width="100%"/>
+```bash
+jorge@kinal:~$ echo "Gracias por pasar por aquí"
+```
 
 </div>
