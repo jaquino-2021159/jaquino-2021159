@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="100%" height="140" role="img" aria-label="un stack variado es mejor que una sola especialidad">
+  <rect width="1200" height="140" fill="#0B1220"/>
+  <rect x="0" y="0" width="1200" height="3" fill="#22D3EE"/>
+  <text x="600" y="62" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="26" font-style="italic" fill="#E2E8F0">“un stack variado &gt; una sola especialidad”</text>
+  <text x="600" y="100" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#22D3EE">Jorge Aquino · Guatemala</text>
+  <rect x="0" y="137" width="1200" height="3" fill="#22D3EE"/>
+</svg>
