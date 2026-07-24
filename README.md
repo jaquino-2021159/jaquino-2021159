@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:FF3CAC,100:784BA0&height=190&section=header&text=Jorge%20Eliam%20Aquino%20Reyes&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20IA%20%E2%80%A2%20Ciberseguridad%20%E2%80%A2%20Marketing%20Digital&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
+![Edad](https://img.shields.io/badge/18%20años-Guatemala-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Kinal](https://img.shields.io/badge/Fundación%20Kinal-2024–2026-FF3CAC?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Disponible](https://img.shields.io/badge/Disponible%20para%20colaborar-784BA0?style=for-the-badge&logo=probot&logoColor=white)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaquino2021159-FF3CAC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaquino2021159/)
 [![GitHub](https://img.shields.io/badge/GitHub-jaquino--2021159-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaquino-2021159)
 ![Profile Views](https://komarev.com/ghpvc/?username=jaquino-2021159&color=784bA0&style=for-the-badge&label=VISITAS)
@@ -10,9 +14,8 @@
 
 ## 🧭 Sobre mí
 
-No me quedé con un solo carril. Construyo aplicaciones full-stack y, en paralelo, sumo IA aplicada, ciberseguridad y marketing digital al mismo stack — la idea es entender el producto completo, no solo el código.
+Tengo 18 años y llevo 3 años formándome en **Fundación Kinal (2024–2026)**. No me quedé con un solo carril: construyo aplicaciones full-stack y, en paralelo, sumo IA aplicada, ciberseguridad y marketing digital al mismo stack — la idea es entender el producto completo, no solo el código.
 
-- 🎓 Estudiante en **Fundación Kinal**
 - 🛠️ Trabajando en proyectos full-stack con **JavaScript, Java y C#**
 - 🤖 Aprendiendo a integrar **agentes de IA** en flujos de desarrollo reales
 - 🛡️ Metiéndole mano a fundamentos de **ciberseguridad y hacking ético**
@@ -50,13 +53,20 @@ No me quedé con un solo carril. Construyo aplicaciones full-stack y, en paralel
 
 ## 🎓 Certificaciones
 
-| Certificación | Emisor | Duración | Fecha |
-|---|---|---|---|
-| Curso de IA: De 0 a Agentes | BIG school × IA Jon Hernández | 6h | 03/06/2026 |
-| Ciberseguridad y Hacking Ético | BIG school | 6h | 03/06/2026 |
-| Marketing Digital con IA | BIG school (BIGSEO) | 6h | 03/06/2026 |
-| Desarrollo con IA: De 0 a Producción | BIG school | 6h | 26/03/2026 |
-| IT Essentials: PC Hardware and Software | Cisco Networking Academy | — | 28/08/2024 |
+<div align="center">
+
+| | |
+|:---:|:---:|
+| <img src="certs/curso-ia-agentes.jpeg" width="380"/> | <img src="certs/ciberseguridad-hacking-etico.jpeg" width="380"/> |
+| **Curso de IA: De 0 a Agentes** · BIG school × IA Jon Hernández · 6h · 03/06/2026 | **Ciberseguridad y Hacking Ético** · BIG school · 6h · 03/06/2026 |
+| <img src="certs/marketing-digital-ia.jpeg" width="380"/> | <img src="certs/desarrollo-con-ia.jpeg" width="380"/> |
+| **Marketing Digital con IA** · BIG school (BIGSEO) · 6h · 03/06/2026 | **Desarrollo con IA: De 0 a Producción** · BIG school · 6h · 26/03/2026 |
+| <img src="certs/cisco-it-essentials.png" width="380"/> | |
+| **IT Essentials: PC Hardware and Software** · Cisco Networking Academy · 28/08/2024 | |
+
+</div>
+
+> 📁 Certificados originales disponibles en [`/certs`](./certs).
 
 <br>
 
@@ -83,6 +93,11 @@ No me quedé con un solo carril. Construyo aplicaciones full-stack y, en paralel
 <img src="https://streak-stats.demolab.com/?user=jaquino-2021159&theme=radical&hide_border=true" width="70%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=jaquino-2021159&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaquino-2021159/jaquino-2021159/output/github-snake-dark.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/jaquino-2021159/jaquino-2021159/output/github-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
